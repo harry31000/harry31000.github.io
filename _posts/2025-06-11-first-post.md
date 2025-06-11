@@ -1,5 +1,5 @@
 ---
-layout: post             # 套用預設文章佈局 (通常在 _layouts/post.html)
+layout: default             # 套用預設文章佈局 (通常在 _layouts/post.html)
 title: "發佈第一篇文章"
 date: 2025-06-11 10:00:00 +0800
 categories: [Jekyll, 教學]
