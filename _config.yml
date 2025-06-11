@@ -3,11 +3,6 @@ title: My Project Page
 description: "我的 GitHub Pages"
 theme: jekyll-theme-hacker
 
-# GitHub 資訊（Jekyll 會自動取得）
-github:
-  owner_name: harry31000
-  repository_name: harry31000.github.io
-
 # Jekyll 設定
 markdown: kramdown
 highlighter: rouge
