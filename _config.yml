@@ -2,3 +2,17 @@
 title: My Project Page
 description: "我的 GitHub Pages"
 theme: jekyll-theme-hacker
+
+# Jekyll 設定
+markdown: kramdown
+highlighter: rouge
+permalink: /:year/:month/:day/:title/
+
+# 插件
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# 排除檔案
+exclude:
+  - README.md
